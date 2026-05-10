@@ -145,8 +145,6 @@ class FTPClient:
 
     # ==================== COMMANDS TO IMPLEMENT ====================
 
-        # ==================== STUDENT IMPLEMENTATIONS ====================
-
     def rename_file(self):
         """Rename a file on server"""
         print("\n✏️  RENAME FILE (Server)")
